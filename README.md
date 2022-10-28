@@ -4,7 +4,7 @@
 
 Hello, member of the triplea-games repository. These are the unofficial guidelines to how act properly on the repository.
 As many of you know, it's vital to maintain a proper behaviour when participating in a large-scale repository. Outlined in here are the set of rules expected to be upheld.
-If there are any other problems, you can ask any of the moderators present or <a> href "
+If there are any other problems, you can ask any of the moderators present or <a href="https://forums.triplea-game.org/">on the forums.</a>
 
 <b> Rules </b>
 
